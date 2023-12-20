@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Coder-Connect-AI/static/css/main.a47cbc9f.css",
+    "main.js": "/Coder-Connect-AI/static/js/main.9f8b723f.js",
+    "static/js/787.61270e95.chunk.js": "/Coder-Connect-AI/static/js/787.61270e95.chunk.js",
+    "static/media/user-icon.png": "/Coder-Connect-AI/static/media/user-icon.79487ebd1120a8a7b004.png",
+    "static/media/user.png": "/Coder-Connect-AI/static/media/user.33e7df0963941edbeb70.png",
+    "static/media/chatgpt.svg": "/Coder-Connect-AI/static/media/chatgpt.4c8727aa9bdbf99f9994196451794f61.svg",
+    "static/media/chatgptLogo.svg": "/Coder-Connect-AI/static/media/chatgptLogo.496558ea071637d128587cb98b0e1b1c.svg",
+    "static/media/send.svg": "/Coder-Connect-AI/static/media/send.5cc05986cf306ae5d4ce38bf6fdc3def.svg",
+    "index.html": "/Coder-Connect-AI/index.html",
+    "static/media/message.svg": "/Coder-Connect-AI/static/media/message.ef36f79693990ff17ecf42cd018fcb4e.svg",
+    "main.a47cbc9f.css.map": "/Coder-Connect-AI/static/css/main.a47cbc9f.css.map",
+    "main.9f8b723f.js.map": "/Coder-Connect-AI/static/js/main.9f8b723f.js.map",
+    "787.61270e95.chunk.js.map": "/Coder-Connect-AI/static/js/787.61270e95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a47cbc9f.css",
+    "static/js/main.9f8b723f.js"
+  ]
+}
